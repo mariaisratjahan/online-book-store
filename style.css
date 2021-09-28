@@ -1,0 +1,55 @@
+body{
+    background-color:#f8f8f8;
+}
+/* common utilities */
+.orange-color{
+    color: orange;
+}
+/* error message style */
+#error{
+    color:orange;
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 50px;
+ }
+ .search-result{
+    color:orange;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 50px;
+    padding: 10px;
+    background-color: rgb(240, 240, 210);
+ }
+ 
+
+/* top heading style */
+#heading{
+    color:rgb(34, 33, 32);
+    font-size: 50px;
+    
+}
+
+
+/* card style */
+.card-title-style{
+    color:rgb(0, 0, 0);
+}
+.card-details{
+   
+    margin: 40px 0;   
+    background-color: rgb(251, 251, 251);
+    box-shadow: 1px 3px 10px rgb(110, 105, 100);
+    border:none;
+    
+}
+.card-body{
+    padding:25px;
+    line-height: 30px;
+}
+
+.card-paragraph{
+    color: rgb(93, 91, 88);
+}
+.published-year{
+    color:rgb(114, 108, 108);
+}
